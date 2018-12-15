@@ -4,7 +4,7 @@ Custom Icons for Home Assistant
 If you are like me and love icons that better represent the actual state of your home automation devices.  I would like to share some icons I have customized for just that.
 
 ## Venetian blinds icons.
-How they icons look:
+How the icons look:
 <br/>
 <img src="./icons/venetian-blinds/blinds_00.png" width="48">
 <img src="./icons/venetian-blinds/blinds_10.png" width="48">
