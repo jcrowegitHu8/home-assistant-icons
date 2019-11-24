@@ -45,7 +45,7 @@ How I set them up in Home Assistant
       return '/local/blinds_99.png';
 ```
 Note:
-My setup using custom_ui for home assistant to allow me to set all of my convering to use icon configuration.
+My setup using [custom_ui](https://github.com/andrey-git/home-assistant-customizer/) for home assistant to allow me to set all of my convering to use icon configuration.
 
 Thanks to:
 - Tim Madle for making the original icon
